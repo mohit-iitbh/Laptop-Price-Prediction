@@ -1,5 +1,4 @@
 # Laptop-Price-Prediction
-# Laptop Price Prediction
 
 This project predicts the price of a laptop on giving its specification.
 
