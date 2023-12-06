@@ -42,6 +42,6 @@ Accuracy achieved on the models:<p>
 5.XG Boost Regressor: Accuracy (R2 Score)->86.64%<p>
 
 ## Contribution:
-Mohit Agarwala:- Modelling and hyperparameter tuning and assistance in deployment.
-Rahul Kumar:- Major work on deployment and assistance in modelling.
+Mohit Agarwala:- Modelling and hyperparameter tuning and assistance in deployment.<br />
+Rahul Kumar:- Major work on deployment and assistance in modelling.<br />
 Aditi Shukla:- Have done EDA, feature engineering and data cleaning.
