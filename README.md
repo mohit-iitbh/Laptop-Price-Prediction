@@ -17,6 +17,9 @@ https://github.com/mohit-iitbh/Laptop-Price-Prediction/assets/150344621/ca3b9b55
   Your browser does not support the video tag.
 </video>
 
+## Access the Web App
+https://laptop-price-prediction-2nsz8kexckrkq7r9lhhync.streamlit.app/
+
 ## Overview
 This system is designed to predict the price of a laptop in real-time, providing a comfortable environment to the user. We have developed a machine learning model using XG Boost Regressor to accurately predict the price of a laptop. 
 
